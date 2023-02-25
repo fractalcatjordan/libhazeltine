@@ -1,0 +1,1 @@
+HZNote: This is gonna be an upload of the full PsiPog archive, which I have a copy of.
