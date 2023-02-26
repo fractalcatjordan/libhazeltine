@@ -1,7 +1,7 @@
 Broadcasting and Pinging
 by annie
 
-I decided to group broadcasting and pinging into one little article, as there isn't a terrible amount to write on either subject and they both loosely fall into the same "sending" category. The definition, from PsiPog's Telepathy Manual is:
+I decided to group broadcasting and pinging into one little article, as there isn't a terrible amount to write on either subject and they both loosely fall into the same "sending" category. The definition, from PsiPog's Telepathy Manual [https://github.com/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/telepathy-manual.txt] is:
 
 5) Broadcasting: Very much what it sounds, broadcasting is the relaying of a telepathic message to an area or group. Much like a radio tower, in most cases broadcasting is performed by simply tossing thoughts out into the air for anyone sensitive (or close) enough to listen.
 
@@ -15,7 +15,7 @@ You can also use this to send one piece of information to several people. This i
 
 Now to discuss Pinging.
 
-The ping is about as useful as a psiball. But like a psiball, it can be entertaining for the whole fam. Its' how-to is about the same as broadcasting, but on a smaller scale. You just want to grab the attention (or send the primitive thought pattern, or grunt) of your target, not knock their socks off. If you're still confused, you're overthinking. It is probably just communication on a more subtle level than you're used to. Practice practice practice. If you have questions on how to know if you're being pinged, I direct you to Gnome's Sensitivity Manual. It's an excellent article and explains how to be able to receive better than I could sum up any of it up here.
+The ping is about as useful as a psiball. But like a psiball, it can be entertaining for the whole fam. Its' how-to is about the same as broadcasting, but on a smaller scale. You just want to grab the attention (or send the primitive thought pattern, or grunt) of your target, not knock their socks off. If you're still confused, you're overthinking. It is probably just communication on a more subtle level than you're used to. Practice practice practice. If you have questions on how to know if you're being pinged, I direct you to Gnome's Sensitivity Manual[https://github.com/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/sensitivity-manual.txt]. It's an excellent article and explains how to be able to receive better than I could sum up any of it up here.
 
 Good luck and happy practicing.
 
