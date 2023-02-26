@@ -63,8 +63,9 @@
  Describes what psi is, what it can feel like, and how it can affect your energy system. Lists short definitions of various terms. States that it is harder to do things physically than energetically, and recommends sticking to energy. Suggests starting by learning to scan, then programming basic constructs, and practicing combat and sparring.
  - [~~Introduction to Psionics and the Paranormal~~](http://www.youtube.com/watch?v=HpYWUIzPDU4) *by Lucidess*  
 ~~A video discussing what psionics is and the author’s ideas about it. Makes suggestions on how to practice it by learning to “just do it”.~~
- - [~~Psionic Terms- About~~]( http://www.youtube.com/watch?v=5uJiz4-uNys) by Saintbob  
+ - [~~Psionic Terms- About~~](http://www.youtube.com/watch?v=5uJiz4-uNys) by Saintbob  
 ~~A video recommending not to pay so much attention to the terms in psionics that it gets in the way of your practicing.~~
-
+ - [Podcast 1](/shiftedperspectives.net/media.php/id/5.txt) – by NeoPsychic & JediKaren  
+A recording covering the speakers’ backgrounds and opinions on what psi is, the scientific theories about psi and psionics, why scientific experiments on psi don’t always work, skeptics’ responses to psi, and the difference between psychics and psionics.
 
 HZNOTE: finish
