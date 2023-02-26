@@ -2,3 +2,4 @@ Tags are listed at the bottom of text files.
 TYPE TAGS: HZTypeIrcLog, HZTypeArticle
 SOURCE TAGS: HZSourcePsipog
 CONTENT CATEGORY TAGS: HZCatManipulation, HZCatPsychokinesis, HZCatMentalControl, HZCatTelepathy
+WORKFLOW TAGS: HZPlaceholder
