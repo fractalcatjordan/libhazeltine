@@ -1,11 +1,11 @@
 Clairvoyance
 by SunTzu
 
-Before attempting this, one should be familiar with communicating with their subconscious mind. Please read Peebrain's article on it, and put it into practice, this is required. Communicating with your Subconscious.
+Before attempting this, one should be familiar with communicating with their subconscious mind. Please read Peebrain's article on it, and put it into practice, this is required. Communicating with your Subconscious[https://github.com/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/communicating-with-subc.txt].
 
 First, let me start off by letting you know why I have written an article on this subject matter. In the beginning of the US government's psychic program, there was StarGate, who developed the processes now known as "Remote Viewing", and similar processes were used in Soviet Russia before the US started research. There are many articles on each of these techniques; they are available at http://www.firedocs.com and http://www.crvmanual.com.
 
-Later on, different methods of Viewing came into effect, and into psionic literature. One of these was "Remote Presence", a similar approach, but both more passive and more forceful (if it is possible for a technique to be both at the same time). Yumper has also written an article and held a seminar on this subject matter, which I encourage you to check out for more information (Remote Presence, and Remote Presence Seminar). Unfortunately, since the "creation" of Remote Presence, it has also adopted it's own methods which a new writer can only deviate slightly from.
+Later on, different methods of Viewing came into effect, and into psionic literature. One of these was "Remote Presence", a similar approach, but both more passive and more forceful (if it is possible for a technique to be both at the same time). Yumper has also written an article and held a seminar on this subject matter, which I encourage you to check out for more information (Remote Presence[HZPlaceholder], and Remote Presence Seminar[HZPlaceholder]). Unfortunately, since the "creation" of Remote Presence, it has also adopted it's own methods which a new writer can only deviate slightly from.
 
 So, here's the deal: I'm going to write what I actually do and you can call it whatever you want, I call it Remote Viewing, Remote Presence, Clairvoyance, or Clairsentience depending on my mood. I give up with names; I'm just going with what works.
 
@@ -46,3 +46,4 @@ Special thanks to: Kingcob, DanielH, and DagoRed for proofreading/editting
 
 *_# TZ_
 
+Tags: HZTypeArticle. HZSourcePsipog, HZCatRemoteViewing
