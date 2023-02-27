@@ -3,4 +3,4 @@ TYPE TAGS: HZTypeIrcLog, HZTypeArticle
 SOURCE TAGS: HZSourcePsipog
 CONTENT CATEGORY TAGS: HZCatManipulation, HZCatPsychokinesis, HZCatMentalControl, HZCatTelepathy, HZCatRemoteViewing,
     HZCatPsiCombat, HZCatShielding, HZCatPerception
-WORKFLOW TAGS: HZPlaceholder
+OTHER TAGS: HZPlaceholder, HZNote
