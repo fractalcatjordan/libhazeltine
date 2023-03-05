@@ -10,7 +10,7 @@ First off, you'll have to know how to make a psi construct, which comes pretty e
 Psiballs; The Epic Tale of How-To by GreatSheepKing (https://github.com/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/psionic-shielding.txt)
 Your Psi Ball Source (Peebrain's Method) by Peebrain (HZPlaceholder://github.dev/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/psiball-source.txt)
 Psi Ball FAQ by Peebrain (HZPlaceholder://github.dev/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/psiball-faq.txt)
-How to Maintain your Constructs by GreatSheepKing (HZPlaceholder://github.dev/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/fire-and-ice.txt)
+How to Maintain your Constructs by GreatSheepKing (https://github.com/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/fire-and-ice.txt)
 Did You Make a PsiBall? : A Guide to PsiBall Identification for Newbies by PsiPogAuthor (HZPlaceholder://github.dev/fractalcatjordan/libhazeltine/blob/main/psipog.net/articles/psiball-source.txt)
 A few other things are needed to, like visualization skills and programming skills. Those topics have a few good articles on them too. Now with all of that mumbo jumbo out of the way, let's start this up...
 
